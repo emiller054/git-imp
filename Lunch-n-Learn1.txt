@@ -1,0 +1,16 @@
+First Lunch 'n Learn Session for learning about git and github
+
+November 13, 2013
+
+
+Agenda
+
+1. Brief introduction - Bob (slide deck) [5 min]
+2. VIDEO - "Git Basics - What is Version Control?"  [6 min]
+3. VIDEO - "Git Basics - What is Git?" [~8 min]
+4. VIDEO - "Git Basics - Get going with Git" [~4 min]
+5. VIDEO - "Git Basics - Quick wins with Git" [~5 min]
+6. VIDEO - "First Look • Collaboration with Git and GitHub" [~7 min]
+7. VIDEO - "GitHub for Windows • A Quick Look" [~2 min]
+8. VIDEO - "How to Create a GitHub Account" [1 min]
+9. ASSIGNMENT
