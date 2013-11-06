@@ -1,4 +1,6 @@
-First Lunch 'n Learn Session for learning about git and github
+First Lunch 'n Learn Session 
+----------------------------
+for learning about git and github
 
 November 13, 2013
 
