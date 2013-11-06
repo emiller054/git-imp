@@ -19,6 +19,7 @@ Agenda
 8. VIDEO - [How to Create a GitHub Account](https://www.youtube.com/watch?v=ezxRcdJ8glM&feature=c4-overview-vl&list=PLg7s6cbtAD17rhrz2BJWAPJMjR71B3IDx) [1 min]
 9. ASSIGNMENT: [5 min]
     * Spend 15 minutes learning git on your own: http://try.github.io/levels/1/challenges/1
+    * Download a free copy of ProGit:  http://www.git-scm.com/book
     * Install git on your computer 
     * Sign up for a GitHub account
     * Fork a repository from rsolimeno
