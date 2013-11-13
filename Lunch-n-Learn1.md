@@ -28,3 +28,6 @@ Agenda
 10. DISCUSSION  [~10 min]                                                 
 11. FOLLOW-UP [~5 min]                                                   
 12. ADJOURN
+
+
+13. I enojyed the pizza and I think I understand this? - Eric
