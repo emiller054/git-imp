@@ -1,4 +1,5 @@
-"Volunteer List"
+Volunteer List
+--------------
 
 * Ashley Neyer
 * Eric Miller
