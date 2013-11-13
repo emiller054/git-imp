@@ -30,4 +30,4 @@ Agenda
 12. ADJOURN
 
 
-13. I enojyed the pizza and I think I understand this? - Eric
+13. I enjoyed the pizza and I think I understand this? - Eric
